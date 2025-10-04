@@ -12,7 +12,8 @@ The standalone executable **RageMP Toolbox.exe** is available in the
 Releases](http://github.com/fzer0x/ragemp-toolbox/releases/latest)
 section.\
 ⚠️ **Security Note:** Only download from the official GitHub repository.
-
+------------------------------------------------------------------------
+!!REDUX PATCHER IN MAINTAINACE! KNOWING ISSUE! FIX IN PROGRESS!!
 ------------------------------------------------------------------------
 ## 📸 Screenshot
 ![RAGEMP Toolbox Screenshot](Screenshot/Screenshot.png)
