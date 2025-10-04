@@ -43,7 +43,7 @@ section.\
 
 -   **Connection Fix** → repairs `config.xml` issues\
 -   **LocalPrefs Cleaner** → removes broken config files\
--   **Windows Compatibility Fix** → resolves issues on Windows 7/8
+-   **Fixes an error that incorrectly reports Windows 7/8 as being used, even on Windows 10/11
 
 ### Modern UI
 
