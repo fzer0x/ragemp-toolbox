@@ -1,0 +1,47 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+*.manifest
+*.spec
+
+# ---- Virtual Environments ----
+venv/
+env/
+.venv/
+ENV/
+
+# ---- Logs & Cache ----
+*.log
+logs/
+*.tmp
+*.bak
+
+# ---- IDE / Editor ----
+.vscode/
+.idea/
+*.iml
+
+# ---- OS specific ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- PyInstaller / Executables ----
+*.exe
+*.dll
+*.pyz
+*.spec
+
+# ---- Custom ----
+# Ignore local config or test files if needed
+config_local.py

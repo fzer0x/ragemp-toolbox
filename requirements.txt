@@ -1,0 +1,3 @@
+PyQt6
+PyAudio==0.2.11
+pyaudio==0.2.11
