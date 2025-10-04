@@ -14,6 +14,9 @@ section.\
 ⚠️ **Security Note:** Only download from the official GitHub repository.
 
 ------------------------------------------------------------------------
+## 📸 Screenshot
+![RAGEMP Toolbox Screenshot](Screenshot/Screenshot.png)
+------------------------------------------------------------------------
 
 ## ✨ Key Features
 
